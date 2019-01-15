@@ -26,4 +26,10 @@ http://localhost:8001/hystrix.stream
 http://localhost:8001/dept/get/1
 
 
+http://myzuul.com:9527/microservicecloud-dept/dept/get/2
+http://localhost/consumer/dept/get/2
+http://config-3344.com:3344/application-test.ym
+http://client-config.com:8202/config
+
+
 
